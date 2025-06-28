@@ -19,7 +19,7 @@ Given the class imbalance (positive being dominant), care must be taken in model
 Precision, recall, and F1-score per class (especially for the negative class) should be used to evaluate model robustness, rather than accuracy alone.
 # Business Insight
 From an operational standpoint, this high positive sentiment implies a generally healthy workplace culture. However, a data-driven recommendation would be to:
-Perform topic modeling on neutral/negative feedback to uncover recurrent themes.
+Perform topic modeling on neutral/negative feedback to uncover recurrent themes and also additional dataset should be used to resolve the imbalanced issues.
 Implement real-time sentiment monitoring pipelines to capture shifts in employee morale as changes occur (e.g., restructuring, policy updates).
 
 
