@@ -6,7 +6,7 @@ Using the sentiment counts:
 Positive: 3412 (≈ 63.3%)
 Neutral: 1074 (≈ 19.9%)
 Negative: 903 (≈ 16.8%)
-This distribution indicates a positively skewed sentiment trend in the employee feedback dataset. This sometime can also mean that the dataset is overlapping
+This distribution indicates a positively skewed sentiment trend in the employee feedback dataset. This can also mean that the dataset is imbalanced.
 # Analytical Interpretation
 High Positive Sentiment (63.3%)
 Suggests that most employees expressed favorable views, particularly in areas like work-life balance, company culture, and job security, as revealed in the word cloud and frequency analysis.
