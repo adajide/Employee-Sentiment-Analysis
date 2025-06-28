@@ -13,7 +13,7 @@ Suggests that most employees expressed favorable views, particularly in areas li
 Indicates a strong alignment between employee expectations and organizational policies or support systems.
 Moderate Neutral and Negative Sentiment (~37%)
 The combined 37% of neutral and negative sentiments is non-trivial, highlighting underlying issues or dissatisfaction in specific areas (e.g., salary concerns, project management inefficiencies, or high pressure).
-Suggests the need for targeted sentiment segmentation analysis—e.g., breaking down by department, job role, or review rating—to locate potential problem clusters.
+Suggests the need for targeted sentiment segmentation analysis e.g., breaking down by department, job role, or review rating to locate potential problem clusters.
 # Model Implications
 Given the class imbalance (positive being dominant), care must be taken in model training to avoid bias toward the majority class.
 Precision, recall, and F1-score per class (especially for the negative class) should be used to evaluate model robustness, rather than accuracy alone.
